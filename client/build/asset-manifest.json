@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.381f2618.chunk.css",
+    "main.js": "/static/js/main.72b2a97b.chunk.js",
+    "main.js.map": "/static/js/main.72b2a97b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.248907bc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.248907bc.js.map",
+    "static/css/2.16b4e3d2.chunk.css": "/static/css/2.16b4e3d2.chunk.css",
+    "static/js/2.20509938.chunk.js": "/static/js/2.20509938.chunk.js",
+    "static/js/2.20509938.chunk.js.map": "/static/js/2.20509938.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.16b4e3d2.chunk.css.map": "/static/css/2.16b4e3d2.chunk.css.map",
+    "static/css/main.381f2618.chunk.css.map": "/static/css/main.381f2618.chunk.css.map",
+    "static/js/2.20509938.chunk.js.LICENSE.txt": "/static/js/2.20509938.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/Asfalto.ca8cb797.woff2",
+    "static/media/agregar-producto.3dad9d58.jpg": "/static/media/agregar-producto.3dad9d58.jpg",
+    "static/media/banner_1.8981cd7a.jpg": "/static/media/banner_1.8981cd7a.jpg",
+    "static/media/banner_2.99746625.jpg": "/static/media/banner_2.99746625.jpg",
+    "static/media/banner_3.2f49f15b.jpg": "/static/media/banner_3.2f49f15b.jpg",
+    "static/media/banner_4.e3cb7c5d.jpg": "/static/media/banner_4.e3cb7c5d.jpg",
+    "static/media/blackboard.b60c61a3.jpg": "/static/media/blackboard.b60c61a3.jpg",
+    "static/media/cocoliche-logo.3bf78296.png": "/static/media/cocoliche-logo.3bf78296.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.248907bc.js",
+    "static/css/2.16b4e3d2.chunk.css",
+    "static/js/2.20509938.chunk.js",
+    "static/css/main.381f2618.chunk.css",
+    "static/js/main.72b2a97b.chunk.js"
+  ]
+}

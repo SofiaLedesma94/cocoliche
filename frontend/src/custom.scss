@@ -1,0 +1,11 @@
+/* make the customizations */
+$theme-colors: (
+        "primary": rgb(27,0,136),
+        "secondary": rgb(237,22,80)
+);
+$carousel-control-prev-icon-bg: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' fill='#1b0088' width='8' height='8' viewBox='0 0 8 8'><path d='M5.25 0l-4 4 4 4 1.5-1.5L4.25 4l2.5-2.5L5.25 0z'/></svg>") !default;
+$carousel-control-next-icon-bg: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' fill='#1b0088' width='8' height='8' viewBox='0 0 8 8'><path d='M2.75 0l-1.5 1.5L3.75 4l-2.5 2.5L2.75 8l4-4-4-4z'/></svg>") !default;
+$carousel-control-icon-width: 30px !default;
+
+/* import bootstrap to set changes */
+@import "../node_modules/bootstrap/scss/bootstrap";
